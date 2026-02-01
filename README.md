@@ -5,8 +5,8 @@
 
   <br><br>
 
-   [LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhancybersoc)
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/subhancybersoc">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <img src="https://user-images.githubusercontent.com/74038190/216656971-9a6e8a4b-1c9c-4b39-b1e3-3f6f79f1d13e.gif" width="100%" />
@@ -15,7 +15,7 @@
 # Subhan Ahmad Khan
 Cybersecurity | SysAdmin | SOC / Blue Team
 
-Cybersecurity & Systems professional with **2 years of experience**, focused on **defensive security, monitoring, and detection**. Hands-on with labs and real-world tooling, building projects that enhance **SOC workflows.
+Cybersecurity & Systems professional with **2 years of experience**, focused on **defensive security, monitoring, and detection**. Hands-on with labs and real-world tooling, building projects that enhance **SOC workflows**.
 
 ## Focus
 - Security monitoring & network traffic analysis
@@ -45,8 +45,6 @@ Cybersecurity & Systems professional with **2 years of experience**, focused on 
   <!-- Elastic -->
   <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elastic" width="50" height="50" />
 </div>
-
-
 
 ## GitHub
 - Practical blue-team labs
