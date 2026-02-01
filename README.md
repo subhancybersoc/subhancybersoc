@@ -42,6 +42,8 @@ Cybersecurity & Systems professional with **2 years of experience**, focused on 
 - Network traffic & detection use cases
 - SOC-style investigations and tooling
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:000000&height=120&section=footer"/>
+
 ## Contact
 📧 subhan.cybersoc@gmail.com  
 💼 https://www.linkedin.com/in/subhancybersoc
