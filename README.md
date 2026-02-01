@@ -1,7 +1,7 @@
 # Subhan Ahmad Khan
 Cybersecurity | SysAdmin | SOC / Blue Team
 
-Cybersecurity & Systems professional with **3 years of experience**, focused on **defensive security, monitoring, and detection**. Hands-on with labs and real-world tooling, building projects that enhance **SOC workflows with AI-driven automation**.
+Cybersecurity & Systems professional with **2 years of experience**, focused on **defensive security, monitoring, and detection**. Hands-on with labs and real-world tooling, building projects that enhance **SOC workflows with AI-driven automation**.
 
 ## Focus
 - Security monitoring & network traffic analysis  
