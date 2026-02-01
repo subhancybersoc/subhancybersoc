@@ -29,6 +29,10 @@ Cybersecurity & Systems professional with **2 years of experience**, focused on 
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-CC0000?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-9CDCFE?style=for-the-badge&logo=nmap&logoColor=black)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-4B0082?style=for-the-badge&logoColor=white)
 **Python • PowerShell • Wireshark • Splunk • Sysmon / Windows • Elastic / ELK • Nessus • Nmap • OpenClaw**
 
 ## GitHub
