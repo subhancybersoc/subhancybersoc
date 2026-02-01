@@ -24,14 +24,28 @@ Cybersecurity & Systems professional with **2 years of experience**, focused on 
 
 ## 🛠 Tools
 <div align="center">
-  <img src="assets/python.png" alt="Python" width="50" height="50" />
-  <img src="assets/powershell.png" alt="PowerShell" width="50" height="50" />
-  <img src="assets/wireshark.png" alt="Wireshark" width="50" height="50" />
-  <img src="assets/splunk.png" alt="Splunk" width="50" height="50" />
-  <img src="assets/sysmon.png" alt="Sysmon" width="50" height="50" />
-  <img src="assets/cyberchef.png" alt="CyberChef" width="50" height="50" />
-  <img src="assets/elastic.png" alt="Elastic" width="50" height="50" />
+  <!-- Python -->
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50" />
+  
+  <!-- PowerShell -->
+  <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="50" height="50" />
+  
+  <!-- Wireshark -->
+  <img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" width="50" height="50" />
+  
+  <!-- Splunk -->
+  <img src="https://img.icons8.com/color/48/000000/splunk.png" alt="Splunk" width="50" height="50" />
+  
+  <!-- Sysmon/Windows -->
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Sysmon" width="50" height="50" />
+  
+  <!-- CyberChef -->
+  <img src="https://img.icons8.com/color/48/000000/cyber-security.png" alt="CyberChef" width="50" height="50" />
+  
+  <!-- Elastic -->
+  <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elastic" width="50" height="50" />
 </div>
+
 
 
 ## GitHub
