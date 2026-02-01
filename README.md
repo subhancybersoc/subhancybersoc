@@ -22,29 +22,63 @@ Cybersecurity & Systems professional with **2 years of experience**, focused on 
 - SOC investigations, detection engineering, alert triage
 - **AI for blue team** (log analysis, anomaly detection)
 
-## 🛠 Tools
+## 🛠 Tools & Technologies
 <div align="center">
   <!-- Python -->
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50" />
-  
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50" />
+    <p>Python</p>
+  </div>
+
   <!-- PowerShell -->
-  <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="50" height="50" />
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="50" height="50" />
+    <p>PowerShell</p>
+  </div>
   
   <!-- Wireshark -->
-  <img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" width="50" height="50" />
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Wireshark_icon.svg" alt="Wireshark" width="50" height="50" />
+    <p>Wireshark</p>
+  </div>
   
   <!-- Splunk -->
-  <img src="https://img.icons8.com/color/48/000000/splunk.png" alt="Splunk" width="50" height="50" />
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://img.icons8.com/color/48/000000/splunk.png" alt="Splunk" width="50" height="50" />
+    <p>Splunk</p>
+  </div>
   
   <!-- Sysmon/Windows -->
-  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Sysmon" width="50" height="50" />
-  
-  <!-- CyberChef -->
-  <img src="https://img.icons8.com/color/48/000000/cyber-security.png" alt="CyberChef" width="50" height="50" />
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Sysmon" width="50" height="50" />
+    <p>Sysmon / Windows</p>
+  </div>
   
   <!-- Elastic -->
-  <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elastic" width="50" height="50" />
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elastic" width="50" height="50" />
+    <p>Elastic / ELK</p>
+  </div>
+
+  <!-- Nessus -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Nessus_logo.svg" alt="Nessus" width="50" height="50" />
+    <p>Nessus</p>
+  </div>
+
+  <!-- Nmap -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Nmap_Logo.svg" alt="Nmap" width="50" height="50" />
+    <p>Nmap</p>
+  </div>
+
+  <!-- OpenClaw -->
+  <div style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://img.icons8.com/color/48/000000/robot.png" alt="OpenClaw" width="50" height="50" />
+    <p>OpenClaw</p>
+  </div>
 </div>
+
 
 ## GitHub
 - Practical blue-team labs
