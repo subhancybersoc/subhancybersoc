@@ -1,3 +1,16 @@
+<div align="center">
+
+# Hey 👋 I'm Subhan Ahmad Khan
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=SOC+%2F+Blue+Team+Analyst;Network+Traffic+Analysis+%26+Detection;Wireshark+%7C+Splunk+%7C+ELK;AI+for+Blue+Team+Security)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhancybersoc)
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=36BCF7&style=for-the-badge)
+
+</div>
+
+
+
 # Subhan Ahmad Khan
 Cybersecurity | SysAdmin | SOC / Blue Team
 
@@ -8,9 +21,13 @@ Cybersecurity & Systems professional with **2 years of experience**, focused on 
 - SOC investigations, detection engineering, alert triage  
 - **AI for blue team** (log analysis, anomaly detection)
 
-## Tools
-Wireshark · Elastic (ELK) · EDR · Nessus · pfSense · Splunk · Nmap  
-Linux (Kali/Ubuntu) · Python · Bash
+## 🛠 Tools
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## GitHub
 - Practical blue-team labs
