@@ -23,11 +23,15 @@ Cybersecurity & Systems professional with **2 years of experience**, focused on 
 - **AI for blue team** (log analysis, anomaly detection)
 
 ## 🛠 Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/powershell-icon.svg" alt="PowerShell" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/wireshark-icon.svg" alt="Wireshark" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/splunk-icon.svg" alt="Splunk" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/sysmon-icon.svg" alt="Sysmon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/elasticsearch-icon.svg" alt="ElasticSearch" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/cyberchef-icon.svg" alt="CyberChef" width="50" height="50" />
+</div>
 
 ## GitHub
 - Practical blue-team labs
