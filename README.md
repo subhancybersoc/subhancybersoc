@@ -27,9 +27,6 @@ Cybersecurity & Systems professional with **2 years of experience**, focused on 
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-002E5D?style=for-the-badge&logo=tenable&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white)
 
 
 ## GitHub
