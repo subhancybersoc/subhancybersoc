@@ -23,6 +23,12 @@ Cybersecurity & Systems professional with **2 years of experience**, focused on 
 - **AI for blue team** (log analysis, anomaly detection)
 
 ## 🛠 Tools & Technologies
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 **Python • PowerShell • Wireshark • Splunk • Sysmon / Windows • Elastic / ELK • Nessus • Nmap • OpenClaw**
 
 ## GitHub
