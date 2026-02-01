@@ -4,11 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=SOC+%2F+Blue+Team+Analyst;Network+Traffic+Analysis+%26+Detection;Wireshark+%7C+Splunk+%7C+ELK;AI+for+Blue+Team+Security" />
 
   <br><br>
-
   <a href="https://www.linkedin.com/in/subhancybersoc">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <img src="https://user-images.githubusercontent.com/74038190/216656971-9a6e8a4b-1c9c-4b39-b1e3-3f6f79f1d13e.gif" width="100%" />
 </div>
 
